@@ -1,6 +1,6 @@
-## Welcome! 🖐️
+## Welcome!
 ## I'm Thallysson!
-- I'm currently studying Computer Science in Unifal-MG 💻 <br>
+- I'm currently studying Computer Science in Unifal-MG
 - Aspiring Data Analyst | Python | SQL
 
 ## About Me
@@ -14,7 +14,7 @@ Seeking a Data Analyst internship to apply analytical and problem-solving skills
 
 ## Projects
 
-### [Olist E-Commerce Marketplace Analysis](https://github.com/Thallysson100/Olist-Data-Analysis)
+### [Olist E-Commerce Marketplace Analysis (Business Insights)](https://github.com/Thallysson100/Olist-Data-Analysis)
 **Tools:** Python, Pandas, Matplotlib  
 - Evaluated 100K+ delivered orders to assess revenue growth, retention patterns, and regional dynamics  
 - Tracked 4× monthly revenue increase (Feb 2017–Apr 2018); Black Friday shifted baseline above $840K  
@@ -23,7 +23,7 @@ Seeking a Data Analyst internship to apply analytical and problem-solving skills
 - Found Southeast responsible for ~70% of volume; uncovered niche specialization in PA, PE, and CE 
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/thallysson-carvalho-b51b0236a/)
 - Email: luisthallysson@gmail.com
-
-- Thanks for visiting!
+- [LinkedIn](https://www.linkedin.com/in/thallysson-carvalho-b51b0236a/)
+---
+**Thanks for visiting!**
