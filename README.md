@@ -1,6 +1,6 @@
 ## Welcome!
 ## I'm Thallysson!
-- I'm currently studying Computer Science in Unifal-MG
+- Currently a student in the Bachelor of Science in Computer Science program (2024-2027) at UNIFAL/MG.
 - Aspiring Data Analyst | Python | SQL
 
 ## About Me
